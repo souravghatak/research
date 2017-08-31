@@ -3,5 +3,5 @@
 
 hello() ->
 
-io:format("My name is : ~p~n", ["Sourav"]).
+io:format("My name is : ~p~n", ["Sourav Ghatak"]).
 
