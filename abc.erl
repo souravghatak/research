@@ -5,7 +5,7 @@ hello() ->
 
 io:format("My name is : ~p~n", ["Sourav Ghatak"]),
 
-io:format("Everything is gonna be : ~p~n", ["alright"]).
+io:format("Everything is gonna be : ~p~n", ["good"]).
 
 
 
