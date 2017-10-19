@@ -4,5 +4,5 @@
 hello() ->
 
 io:format("My name is : ~p~n", ["Sourav, Whats up"]),
-iirriiiiiiiiiiiiiiiiiiiiiiiyyiiiiiuuio:format("My first commit for branch: ~p~n", ["Test-24"]),
+iiiirriiiiiiiiiiiiiiiiiiiiiiiyyiiiiiuuio:format("My first commit for branch: ~p~n", ["Test-24"]),
 
