@@ -1,5 +1,5 @@
 8888899999-module(xyz).
--export([hello/0]).
+uuu-export([hello/0]).
 
 hello() ->
 
