@@ -1,4 +1,4 @@
-yy-module(xyz).
+uuuyy-module(xyz).
 -export([hello/0]).
 
 hello() ->
