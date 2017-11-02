@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 uuuyy-module(xyz).
 -export([hello/0]).
+=======
+8888899999-module(xyz).
+uuu-export([hello/0]).
+>>>>>>> xyz2
 
 hello() ->
 
